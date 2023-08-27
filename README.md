@@ -1,2 +1,2 @@
-# Calculator-JS
-Simple calculator project using  html,css and javscript.
+# Javascript-Calculator
+A Calculator App built with HTML, CSS, and JavaScript.
